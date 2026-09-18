@@ -27,4 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/main.htm) at [Fudan University](https://www.fudan.edu.cn/en/). I am currently a research intern at the [Computational Robotics Lab](https://computationalrobotics.seas.harvard.edu/) at [Harvard SEAS](https://seas.harvard.edu/), where I am fortunate to be advised by [Prof. Heng Yang](https://hankyang.seas.harvard.edu/).
+I am an undergraduate student in the [School of Mathematical Sciences](https://math.fudan.edu.cn/main.htm) at [Fudan University](https://www.fudan.edu.cn/). Currently I am a research intern at the [Computational Robotics Lab](https://computationalrobotics.seas.harvard.edu/) of [Harvard SEAS](https://seas.harvard.edu/), where I am fortunate to be advised by [Prof. Heng Yang](https://hankyang.seas.harvard.edu/).
+
+My research focuses on developing efficient and effective optimization algorithms for large-scale semidefinite programming, together with rigorous theoretical foundations.
+
+Before my research jorney, I enjoyed my time in the Chinese Mathematical Olympiad (CMO) and the William Lowell Putnam Mathematical Competition, earning a silver medal at the CMO and placing first at UCLA in the Putnam. These experiences have taught me how to think.
+
+I also enjoy meeting new people and exchanging ideas. I host a [20-minute open chat](https://calendar.app.google/bmr2aTdZT79YiTQW7) every day and would be happy to talk about robotics, AI, manufacturing, or anything else you find interesting. I am always excited by new ideas and by opportunities to build things that benefit the world.
