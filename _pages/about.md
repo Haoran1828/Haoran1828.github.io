@@ -11,7 +11,7 @@ profile:
     <p>Monument Valley</p>
     <p>2025</p>
 
-selected_papers: true # shows papers marked selected={true} in _bibliography/papers.bib
+selected_papers: false # set true once _bibliography/papers.bib has entries marked selected={true}
 social: true # includes social icons at the bottom of the page
 
 announcements:

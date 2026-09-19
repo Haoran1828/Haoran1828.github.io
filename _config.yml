@@ -8,11 +8,10 @@ last_name: Sun
 contact_note: >
   Email: haoran_sun (at) seas (dot) harvard (dot) edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a undergraduate student at Fudan University majoring in Math. Now I'm working as a research intern at Harvard John A. Paulson School of Engineering and Applied Sciences.
+  I am an undergraduate student at Fudan University majoring in Math. Now I'm working as a research intern at Harvard John A. Paulson School of Engineering and Applied Sciences.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Haoran Sun, Harvard SEAS, Semidefinite Programming, academic homepage
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧭 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -35,7 +34,7 @@ repo_theme_dark: dark # https://github.com/stats-organization/github-stats-exten
 # `user@host` and no `mailto:` for harvesters to scrape, and clicking one copies
 # it to the clipboard instead of opening a mail client.
 # See "Protecting email addresses from scrapers" in docs/CUSTOMIZE.md.
-protect_email: false
+protect_email: true
 
 # Off by default: the free public github-profile-trophy instance is disabled
 # (its Vercel deployment answers HTTP 402 / DEPLOYMENT_DISABLED), so every trophy
@@ -109,9 +108,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -165,7 +164,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname (comments are disabled)
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -220,16 +219,13 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - docs/
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
   - purgecss.config.js
   - README.md
-  - readme_preview/
   - gems/
   - migrations/
   - vendor
