@@ -1,9 +1,4 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Journal/venue abbreviations used in the `abbr` field of papers.bib.
+# "arXiv":
+#   url: https://arxiv.org/
+#   color: "#b31b1b"

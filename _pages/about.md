@@ -11,7 +11,7 @@ profile:
     <p>Monument Valley</p>
     <p>2025</p>
 
-selected_papers: false # publications page removed; set true and fill _bibliography/papers.bib to show selected papers here
+selected_papers: true # shows papers marked selected={true} in _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -20,7 +20,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
