@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Monument Valley</p>
-    <p>2025</p>
+    <p>Boston</p>
+    <p>2026</p>
 
 selected_papers: false # set true once _bibliography/papers.bib has entries marked selected={true}
 social: true # includes social icons at the bottom of the page
@@ -31,4 +31,4 @@ My research focuses on developing efficient and effective optimization algorithm
 
 Before my research journey, I enjoyed my time in the Chinese Mathematical Olympiad (CMO) and the William Lowell Putnam Mathematical Competition, earning a silver medal at the CMO and placing first at UCLA in the Putnam. These experiences have taught me how to think.
 
-I also enjoy meeting new people and exchanging ideas. I host a [20-minute open chat](https://calendar.app.google/bmr2aTdZT79YiTQW7) every day and would be happy to talk about robotics, AI, manufacturing, or anything else you find interesting. I am always excited by new ideas and by opportunities to build things that benefit the world.
+I also enjoy meeting new people and exchanging ideas. I host a [20-minute open chat](https://calendar.app.google/bmr2aTdZT79YiTQW7) every day and would be happy to talk about robotics, AI, manufacturing, or anything else you find interesting.
