@@ -4,6 +4,7 @@
 email: haoran_sun@seas.harvard.edu # your email address
 github_username: Haoran1828
 linkedin_username: haoransun-7516b6300
+cv_pdf: /assets/pdf/CV_HaoranSun.pdf # shown next to LinkedIn; path is relative to the site root
 # rss_icon: true # uncomment to show the RSS icon
 # scholar_userid: # your Google Scholar ID (the part after `user=` in your profile URL)
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
