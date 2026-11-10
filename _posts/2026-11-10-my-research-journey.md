@@ -2,6 +2,7 @@
 layout: post
 title: "My Research Journey: Reflections as a Junior Researcher"
 date: 2026-11-10 10:00:00-0500
+read_time: 5 # minutes; overrides the word-count estimate in _pages/blog.md
 description: Looking back on a year of research at Harvard, and four lessons I have learned along the way.
 ---
 
